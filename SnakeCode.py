@@ -51,3 +51,4 @@ onkey(lambda:changes(0,-10),'Down')
 
 move()
 done()
+done()
